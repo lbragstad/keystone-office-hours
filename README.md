@@ -1,2 +1,3 @@
 # keystone-office-hours
-Tools and scripts to aid in tracking work done during office hours.
+
+This script has moved the [launchpad-toolkit repository](https://github.com/lbragstad/launchpad-toolkit).

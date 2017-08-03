@@ -1,4 +1,0 @@
-lazr.authentication
-launchpadlib
-simplejson
-pytz
